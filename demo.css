@@ -1,0 +1,29 @@
+body {
+			margin: 50px;
+			font-family : 'Arial';
+		}
+		.values {
+			width: 70px;
+			height: 50px;
+			float: center;
+			margin-right:1px;
+			margin-left:1px;
+		}
+		.clear {
+			clear: both;
+		}
+		#hat {
+			height: 271px;
+			position: relative;
+			display: inline;
+			left: 133px;
+		}
+		button{
+		    height:30px; 
+			width:70px;
+		}
+		pre{
+		    position: absolute;
+			margin-left:38%;
+			margin-top:8%;
+		}
