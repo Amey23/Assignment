@@ -25,3 +25,6 @@ Human being can easily identify the emotions from text and experience it. But wh
 > - The output will be in the form of dictionary.
 > - There will be keys as emotion categories and values as emotion score.
 > - Higher the score of a particular emotion category, we can conclude that the message belongs to that category.
+
+[Check Demo](https://pyemotion.herokuapp.com/)
+Let's get experience with the library, test your multiple use cases on web app and check whether the library performs as your expectations level.
