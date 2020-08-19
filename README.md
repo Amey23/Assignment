@@ -6,7 +6,7 @@ Human being can easily identify the emotions from text and experience it. But wh
 
 #### Pyemotion is the python package which will help you to extract the emotions from the content.
 
-- Processes any textual message and recognizes the emotion embedded in it.
+- Processes any textual message and recognize the emotions embedded in it.
 - Compatible with 5 different emotion categories as Happy, Angry, Sad, Surprise and Fear.
 
 # Features
