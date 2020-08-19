@@ -10,7 +10,7 @@ Human being can easily identify the emotions from text and experience it. But wh
 - Compatible with 5 different emotion categories as Happy, Angry, Sad, Surprise and Fear.
 
 # Features
-> ##### 1. Text Pre-Processing
+> ##### 1. Text Pre-processing
 > At first we have the major goal to perform data cleaning and make the content suitable for emotion analysis.
 > - Remove the unwanted textual part from the message.
 > - Perform the natural language processing techniques.
