@@ -25,4 +25,3 @@ Human being can easily identify the emotions from text and experience it. But wh
 > - The output will be in the form of dictionary.
 > - There will be keys as emotion categories and values as emotion score.
 > - Higher the score of a particular emotion category, we can conclude that the message belongs to that category.
-
